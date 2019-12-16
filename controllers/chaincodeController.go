@@ -2,10 +2,10 @@ package controllers
 
 import (
 	"encoding/json"
+	"manageChain/chaincode"
+	"manageChain/channel"
 	"path"
 	"time"
-	"updateChain/chaincode"
-	"updateChain/channel"
 
 	"github.com/astaxie/beego"
 	logger "github.com/astaxie/beego/logs"
