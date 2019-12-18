@@ -16,7 +16,8 @@
 
 2、通过channel_test.go测试用例，进行链的创建，合约安装，实例化合约等；
 
-3、当联盟成员发生变化，例如需要增加成员，删除成员可以通过channel/channel_test.go用例来进行对配置块进行升级;这里需要注意链的adminpolicy,可以majority\any\all;
+3、当联盟成员发生变化，例如需要增加成员，删除成员可以通过channel/channel_test.go用例来进行对配置块进行升级,达到对联盟链组织动态扩展的目的，以此希望能够推进区块链联盟生态的建设;
+这里需要注意链的adminpolicy,可以majority\any\all;
 
 # 三、后续计划
 
